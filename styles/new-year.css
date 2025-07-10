@@ -119,14 +119,15 @@
     }
     .offer .best-offer{
         max-width: 300px;
+        text-align: start;
     }
-    .best-offer h4{
+    .best-offer h3{
         font-weight: bold;
         font-size: 20px;
         color: red;
         margin: 10px;
     }
-    .best-offer h3{
+    .best-offer h1{
         font-size: 48px;
         font-weight: bolder;
         margin: 0px;
